@@ -126,12 +126,22 @@ The Power BI report consists of five analytical pages:
 superstore-sales-profitability-analysis/
 │
 ├── README.md
-├── Power BI/
-│   └── Superstore Sales & Profitability Analysis.pbix
+├── Sample-Superstore.csv
+├── Superstore Sales & Profitability Analysis.pbix
+├── Executive Overview.png
+├── Product & Customer Analysis.png
+├── Product Profitability.png
+├── Customer & Product Rankings.png
+├── Product Performance.png
 │
 └── Data/
-    └── Sample-Superstore.csv
+    └── .gitkeep
 ```
 
-The repository contains the Power BI report, source dataset and project documentation supporting the analysis.
+The repository contains the Power BI report, source dataset, dashboard screenshots and project documentation supporting the analysis.
+
+```
+
+
+
 
