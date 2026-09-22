@@ -97,6 +97,29 @@ The Power BI report consists of five analytical pages:
 4. **Customer & Product Rankings** — Identifies high-value customers and the products contributing to their sales.
 5. **Product Performance** — Provides a detailed view of product sales, profit, profitability and rankings.
 
+
+### Dashboard Screenshots
+
+#### Executive Overview
+
+![Executive Overview](Executive%20Overview.png)
+
+#### Product & Customer Analysis
+
+![Product & Customer Analysis](Product%20%26%20Customer%20Analysis.png)
+
+#### Product Profitability
+
+![Product Profitability](Product%20Profitability.png)
+
+#### Customer & Product Rankings
+
+![Customer & Product Rankings](Customer%20%26%20Product%20Rankings.png)
+
+#### Product Performance
+
+![Product Performance](Product%20Performance.png)
+
 ## Project Structure
 
 ```text
